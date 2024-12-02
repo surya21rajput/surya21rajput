@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/IvyuPtEfzhoAAAAC/matrix.gif" alt="Welcome Banner" width="800" height="200">
+<img src="https://media1.tenor.com/m/IvyuPtEfzhoAAAAC/matrix.gif" alt="Welcome Banner" width="1300" height="200">
 
 
 # Hi there! 👋 I'm Surya Pratap Singh Rajput  
