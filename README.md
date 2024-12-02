@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Welcome Banner](https://i.pinimg.com/originals/f4/9b/f49b8c25e497baf678be1b45c52b9de5.gif)
 
 # Hi there! 👋 I'm Surya Pratap Singh Rajput  
 
