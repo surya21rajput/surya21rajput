@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/hacker-gif-hacker-discover-share-gifs--926052742102107815/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 # Hi there! 👋 I'm Surya Pratap Singh Rajput  
 
