@@ -3,7 +3,7 @@
 🚀 **DevOps Engineer** | 🌐 **Cloud Enthusiast** | ⚙️ **Automation Advocate**  
 
 ---
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 ### About Me  
 I'm a passionate DevOps engineer with a knack for building scalable, secure, and automated solutions. My journey revolves around bridging the gap between development and operations, ensuring seamless deployment pipelines, and creating efficient infrastructure.  
